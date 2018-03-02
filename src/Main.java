@@ -9,7 +9,7 @@ public class Main {
     /*
       Creating a menu for the client interface
      */
-    while (choice ==1) {
+    while (choice !=3) {
       System.out.println("WELCOME TO MIKE'S LAWN SERVICE");
       System.out.println("Please make a selection from the menu options");
       System.out.println("1) Commercial");
